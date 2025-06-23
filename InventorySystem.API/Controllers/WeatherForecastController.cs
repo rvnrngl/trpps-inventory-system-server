@@ -8,7 +8,7 @@ namespace InventorySystem.API.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Raven","Opet","Delson"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
